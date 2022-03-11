@@ -1,0 +1,6 @@
+Abisolar inverter monitoring app using devicehive
+
+software for remote monitoring and controlling abisolar inverter (http://www.atmosfera.ua/produkciya/invertory-i-bloki-bezperebojnogo-pitaniya/) or similar chinesee OEM products
+
+Communication is made through Raspberry PI serial port (2400 baud).
+
